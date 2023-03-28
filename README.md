@@ -7,7 +7,7 @@ Navigate to the root of folder of your project
 Then do the following magic commands
    1. npm install
    2. npm run start:dev
-   3. server the graphql api in this url localhost:3000/graphql or 127.0.0.1:3000/graphql
+   3. serve the graphql api in this url localhost:3000/graphql or 127.0.0.1:3000/graphql
    4. In case any stubborn error repeat number 1, 2 & 3
    5. Enjoy falcon-graphql-api
 
